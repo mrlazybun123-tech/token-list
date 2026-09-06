@@ -184622,4 +184622,12 @@
     "minor": 3,
     "patch": 3
   }
+},
+{
+"chainId": 101,
+"address": "AyxFRAP3X4g3JYZvHnHmbyacMDy6TJj8jF9mmvNEpump",
+"symbol": "PUMP",
+"name": "Pumpkin Poop",
+"decimals": 9,
+"logoURI": "https://i.imgur.com/mdENo5y.png"
 }
